@@ -1,0 +1,16 @@
+body {
+	background-image: url("https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0051/3443/rfleurdepaisley_shop_thumb.png");
+}
+
+#sidebar {
+	background: rgba(139, 178, 183, 0.88);
+}
+
+#spacer {
+    margin-top: 40px; 
+}
+
+#blog {
+	background: rgba(139, 178, 183, 0.88);
+	margin-left: 40px;
+}
