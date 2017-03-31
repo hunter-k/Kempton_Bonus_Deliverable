@@ -7,10 +7,21 @@ body {
 }
 
 #spacer {
-    margin-top: 40px; 
+    margin-top: 40px;
 }
 
 #blog {
 	background: rgba(139, 178, 183, 0.88);
 	margin-left: 40px;
+}
+
+div .jumbotron {
+	background: rgba(139, 178, 183, 0.88);
+}
+
+#resize {
+
+    width:  300px;
+    height: 250px;
+
 }
